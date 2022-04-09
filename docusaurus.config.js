@@ -12,7 +12,7 @@ const config = {
   baseUrl: "/lifeisegg-blog/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "favicon.ico",
   organizationName: "lifeisegg123", // Usually your GitHub org/user name.
   projectName: "lifeisegg-blog", // Usually your repo name.
   i18n: {
@@ -34,6 +34,12 @@ const config = {
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
+        },
+        googleAnalytics: {
+          trackingID: "G-YK4T99Z94F",
+        },
+        gtag: {
+          trackingID: "G-YK4T99Z94F",
         },
       }),
     ],
