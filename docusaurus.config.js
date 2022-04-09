@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Life Is Egg 블로그",
   tagline: "Dinosaurs are cool",
-  url: "https://lifeisegg123.github.io/blog/",
-  baseUrl: "/",
+  url: "https://lifeisegg123.github.io",
+  baseUrl: "/lifeisegg-blog/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
