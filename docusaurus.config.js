@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Life Is Egg 블로그",
-  tagline: "Dinosaurs are cool",
+  title: "Life Is Egg 개발일지",
+  tagline: "lifeisegg의 개발과 관련된 다양한 글을 쓰는 일지",
   url: "https://lifeisegg123.github.io",
   baseUrl: "/lifeisegg-blog/",
   onBrokenLinks: "throw",
@@ -76,6 +76,10 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      colorMode: {
+        defaultMode: "dark",
+        respectPrefersColorScheme: true,
       },
     }),
 };

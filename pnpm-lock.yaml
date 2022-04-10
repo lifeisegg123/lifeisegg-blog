@@ -4,6 +4,7 @@ specifiers:
   '@docusaurus/core': 2.0.0-beta.18
   '@docusaurus/module-type-aliases': 2.0.0-beta.18
   '@docusaurus/preset-classic': 2.0.0-beta.18
+  '@docusaurus/theme-common': ^2.0.0-beta.18
   '@mdx-js/react': ^1.6.22
   '@tsconfig/docusaurus': ^1.0.5
   clsx: ^1.1.1
@@ -15,6 +16,7 @@ specifiers:
 dependencies:
   '@docusaurus/core': 2.0.0-beta.18_28e7016540b0a32b5f8d7be755522ab7
   '@docusaurus/preset-classic': 2.0.0-beta.18_28e7016540b0a32b5f8d7be755522ab7
+  '@docusaurus/theme-common': 2.0.0-beta.18_28e7016540b0a32b5f8d7be755522ab7
   '@mdx-js/react': 1.6.22_react@17.0.2
   clsx: 1.1.1
   prism-react-renderer: 1.3.1_react@17.0.2
