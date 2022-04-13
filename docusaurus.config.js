@@ -9,7 +9,7 @@ const config = {
   title: "Life Is Egg 개발일지",
   tagline: "lifeisegg의 개발과 관련된 다양한 글을 쓰는 일지",
   url: "https://lifeisegg123.github.io",
-  baseUrl: "/lifeisegg-blog/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "favicon.ico",
