@@ -58,7 +58,7 @@ const config = {
           { to: "/tags", label: "Tags", position: "left" },
           { to: "/archive", label: "Archive", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/lifeisegg123",
             label: "GitHub",
             position: "right",
           },
